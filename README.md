@@ -15,8 +15,8 @@ This exercise converting infix expression to postfix expression using expression
 node index '(1+2)*2/4'
 
 ### Expected output 
-This is the infix expression '(1+2)*2/4'
-This is the postfix expression 12+2*4/
+##This is the infix expression '(1+2)*2/4'
+##This is the postfix expression 12+2*4/
 
 
 
